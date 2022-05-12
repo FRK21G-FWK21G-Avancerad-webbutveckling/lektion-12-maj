@@ -1,0 +1,25 @@
+{
+  "name": "lektion-12-maj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=3000 serve .", 
+    "start-window": "SET PORT=3000 && serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRK21G-FWK21G-Avancerad-webbutveckling/lektion-12-maj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRK21G-FWK21G-Avancerad-webbutveckling/lektion-12-maj/issues"
+  },
+  "homepage": "https://github.com/FRK21G-FWK21G-Avancerad-webbutveckling/lektion-12-maj#readme",
+  "dependencies": {
+    "https-localhost": "^4.7.1"
+  }
+}
